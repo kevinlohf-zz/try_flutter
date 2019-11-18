@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_example/scenes/board.dart';
 import 'package:flutter_example/scenes/home_page.dart';
 
 void main() => runApp(MyApp());
@@ -37,7 +38,7 @@ class MyApp extends StatelessWidget {
             body: TabBarView(
               children: [
                 HomePage(),
-                Icon(Icons.directions_car),
+                BoardWidget(),
                 Icon(Icons.directions_transit),
               ],
             )
