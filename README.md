@@ -8,4 +8,5 @@
 
 1. Navigation - Implement tab-based navigation with Material UI
 2. Adding interactivity - Handle user input with `TextField`
-3. Stateful widget - Mutate the UI according to the state
+3. Stateful widget - Mutate the UI according to the state within a `StatefulWidget`
+4. App state management - Persist the state accoss the execution (i.e. between rerendering of widgets) with `ChangeNotifier`, `ChangeNotifierProvider` and `Consumer`
