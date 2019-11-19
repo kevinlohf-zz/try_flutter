@@ -6,5 +6,6 @@
 
 ## A TODO App
 
-1. Implement tab-based navigation with Material UI
-2. Handle user interaction with `TextField`
+1. Navigation - Implement tab-based navigation with Material UI
+2. Adding interactivity - Handle user input with `TextField`
+3. Stateful widget - Mutate the UI according to the state
