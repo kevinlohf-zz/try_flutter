@@ -6,7 +6,7 @@
 
 ## A TODO App
 
-1. Navigation - Implement tab-based navigation with Material UI
-2. Adding interactivity - Handle user input with `TextField`
-3. Stateful widget - Mutate the UI according to the state within a `StatefulWidget`
-4. App state management - Persist the state accoss the execution (i.e. between rerendering of widgets) with `ChangeNotifier`, `ChangeNotifierProvider` and `Consumer`
+1. [Navigation](/1_navigation_tab_completed/README.md) - Implement tab-based navigation with Material UI
+2. [Adding interactivity](/2_interactivity_completed/README.md) - Handle user input with `TextField`
+3. [Stateful widget](/3_statefulwidget_completed/README.md) - Mutate the UI according to the state within a `StatefulWidget`
+4. [App state management](4_appstate_completed/README.md) - Persist the state accoss the execution (i.e. between rerendering of widgets) with `ChangeNotifier`, `ChangeNotifierProvider` and `Consumer`
