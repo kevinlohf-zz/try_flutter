@@ -1,6 +1,21 @@
-# flutter_example
+# 2. Adding interactivity - Handle user interaction
 
-An example Flutter project.
+## What we want to do?
+
+We want to have a text field. Users can type there, will see a snack bar when pressing return during typing.
+
+![Screenshot](screenshot-step2.gif)
+
+## Reference
+
+Text input
+https://flutter.dev/docs/cookbook/forms/text-input
+
+Easy layout responsiveness with `Expand`
+https://api.flutter.dev/flutter/widgets/Expanded-class.html
+
+Displaying a snackbar
+https://flutter.dev/docs/cookbook/design/snackbars
 
 ## Getting Started
 

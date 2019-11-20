@@ -1,6 +1,18 @@
-# flutter_example
+# 1. Navigation and routing - Tab-based navigation
 
-An example Flutter project.
+## What we want to do?
+
+To start with, we want to implement navigation with tab bar, and keep the original screen.
+
+![Screenshot](screenshot-step1.gif)
+
+We will make use of the following widgets
+- `DefaultTabController` - The parent widget containing `TabBar` and `TabBarView`
+- `TabBar` - The widget displaying the tabs, with appearance of tabs defined by an array of `Tab`
+- `TabBarView` - The widget displaying the contents of each tabs, with content defined by an array of `Widget`
+
+## Reference
+https://flutter.dev/docs/cookbook/design/tabs
 
 ## Getting Started
 
